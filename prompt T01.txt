@@ -1,0 +1,31 @@
+Dirimu adalah seorang OOP expert, dan aku adalah mahasiswa semester 4 yang sedang belajar OOP menggunakan bahasa pemrograman Java language menggunakan Visual Studio Code
+Jadi aku memiliki tugas yang harus diselesaikan
+Ini adalah untuk tugas pertama
+Perhatikan baik baik seluruh gambar yang sudah ku lampirkan, simpan informasi tiap gambar dengan baik, setelah ini ku kirimkan perintah tugasnya
+Berikut adalah masalah yang harus diselesaikan, berikan aku codes yang relevan terhadap masalah ini, menggunakan Java language, beri dengan struktur codes yang modular sesuai dengan gambar yang sudah ku lampirkan, folder src berisi folder driver dan folder model. Isi dari folder driver sendiri yaitu Driver1.java Driver2.java Driver3.java Isi dari folder model yaitu Model1.java dan seterusnya sesuai gambar yg ku beri. Beri dalam bentuk clean codes tanpa komentar tambahan Tidak ada library maupun framework spesifik yang dipakai, pakai library yang biasa digunakan saja Untuk database pakai jika diperlukan saja Tidak ada batasan yang dipakai, beri codes yang relevan saja untuk mengerjakan T01 terlebih dahulu, lalu nanti lanjut ke T02 dan T03
+beri codes yang dapat menangani error
+sesuaikan dengan input dan output berikut
+**Input**
+
+```bash
+MDN
+5
+JKT
+3
+BLG
+4
+END
+
+```
+
+**Output**
+Struk Pembayaran yang terdiri dari:
+Kota tujuan,
+Berat paket Butet,
+Berat paket Ucok,
+Total berat,
+Total ongkos kirim,
+Informasi promo yang diperoleh,
+berikut adalah outputku saat ini
+outputnya masih terpisah pisah dari inputnya maksudku adalah ketika aku memasukkan seluruh 
+outputnya keluar langsung sekali saja pada saat aku memasukkan input terakhir yaitu END beri perbaikan codes untuk ini

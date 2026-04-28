@@ -1,0 +1,48 @@
+Dirimu adalah seorang OOP expert, dan aku adalah mahasiswa semester 4 yang sedang belajar OOP menggunakan bahasa pemrograman Java language menggunakan Visual Studio Code
+Jadi aku memiliki tugas yang harus diselesaikan
+Ini adalah untuk tugas pertama
+Simpan seluruh informasi yang ku beri dengan baik
+Baiklah selanjutnya untuk mengerjakan tugas terakhir yaitu T03
+Buatlah sebuah sistem yang mendukung operasional kafetaria IT Del.
+Adapun kafetaria IT Del menyediakan layanan seperti:
+Menjual souvenir IT Del seperti pin, gantungan kunci, stiker, pulpen, jam, tumbler, tote bag.
+Adapun harga dari masing masing barang yaitu:
+Pin (10.000)
+Gantungan kunci (10.000)
+Stiker (15.000)
+Tote bag Del (50.000)
+Jam Del (100.000)
+Tumbler  (120.000)
+Pulpen (5.000)
+
+Menjual selempang wisuda bagi wisudawan yang akan wisuda seharga 100.000
+Menjual kopi dan minuman lainnya seperti Mango Drink seharga 20.000
+Membuka jasa print yaitu seharga 1.000 untuk satu kertas
+Adapun layanan ini diberikan untuk seluruh mahasiswa, dosen, staff yang ada di IT Del, dan tamu yang datang berkunjung ke IT Del
+berikan program yang dapat menyimpan sistem operasional Kafetaria IT Del
+Inputnya berupa data pelanggan dan riwayat
+Berikut yang dapat menjadi Format Input:
+Nama:
+Pilihan Menu
+1. Layanan Souvenir
+2. Layanan selempang wisuda
+3. Jasa Print
+
+Adapun Format Outputnya yaitu dipisahkan oleh tanda pipe berdasarkan hasil input tadi
+Beri dalam bentuk clean codes tanpa komentar tambahan Tidak ada library maupun framework spesifik yang dipakai, pakai library yang biasa digunakan saja Untuk database pakai jika diperlukan saja 
+Tidak ada batasan yang dipakai
+Beri codes yang dapat validasi input dan menangani error, dan beri codes dalam bentuk codes lengkap yang mudah dipahami bukan potongan codes
+berikan program yang dapat menampilkan menu apa saja:
+jadi pada saat program dirun
+keluar tampilan
+Nama:
+Menu
+sesuai sama input yang akan dipilih nantinya agar tidak membingungkan
+Exception in thread "main" java.util.InputMismatchException
+        at java.base/java.util.Scanner.throwFor(Scanner.java:947)
+        at java.base/java.util.Scanner.next(Scanner.java:1602)
+        at java.base/java.util.Scanner.nextInt(Scanner.java:2267)
+        at java.base/java.util.Scanner.nextInt(Scanner.java:2221)
+        at driver.Driver3.main(Driver3.java:49)
+mengapa begini error? berikan solusi
+nanti setelah user input pilihan menu dan pilih souvernir, program menyimpan data user  dan mentotalkan harga yang harus dibayar user
